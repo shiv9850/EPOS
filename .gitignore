@@ -1,0 +1,4 @@
+bin/
+obj/
+Migrations/
+client\node_modules/
