@@ -1,4 +1,4 @@
 bin/
 obj/
 Migrations/
-client\node_modules/
+client/node_modules/
